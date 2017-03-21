@@ -1,0 +1,9 @@
+====Senior Research
+
+This repo will contain scripts created throughout my research project.
+
+--EXTRACT, TRANSFORM
+initial-docketno-scrape.js -> readDock.sh -> docket-post.js -> extract-from-html.py
+
+--LOAD
+loading into sql... will post soon
