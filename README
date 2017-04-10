@@ -4,6 +4,10 @@ This repo will contain scripts created throughout my research project.
 
 --EXTRACT, TRANSFORM
 initial-docketno-scrape.js -> readDock.sh -> docket-post.js -> extract-from-html.py
-
 --LOAD
-loading into sql... will post soon
+A mySQL dump file containing all data is available for download on webserver
+
+-Java-components
+This directory contains code for iterating the MySQL database to parse and extract potentially useful fields from court records. For example, hasWeaponCharge, hasDrugCharge, etc.
+
+
