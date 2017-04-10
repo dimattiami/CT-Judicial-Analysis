@@ -1,1 +1,4 @@
 java-components/target/
+java-components/.settings/
+java-components/.classpath
+java-components/.project
