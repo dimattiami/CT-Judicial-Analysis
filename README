@@ -10,4 +10,5 @@ A mySQL dump file containing all data is available for download on webserver
 -Java-components
 This directory contains code for iterating the MySQL database to parse and extract potentially useful fields from court records. For example, hasWeaponCharge, hasDrugCharge, etc.
 
-
+-Analysis component
+This directory contains one R script for analysing weapon, burglary, and drug charges, along with a compiled R notebook in HTML format
